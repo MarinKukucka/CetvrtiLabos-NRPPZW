@@ -1,0 +1,35 @@
+body{
+    background-color: darkgrey;
+}
+
+.container{
+    display: inline-block;
+    text-align: center;
+    background-color: grey;
+}
+
+.heading{
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.footer{
+    text-align: center;
+}
+
+img{
+    margin: 20px;
+}
+
+hr{
+    width: 100%;
+    margin: 20px 0;
+    border: node;
+    border-top: 2px soild darkgrey;
+}
+
+p{
+    display: inline;
+    background-color: darkgray;
+    padding: 5px;
+}
